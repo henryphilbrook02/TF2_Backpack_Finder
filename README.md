@@ -18,4 +18,4 @@ Levels of Search: This is how many levels you wants this program to run. At 1 le
 
 Minimum Value: This is the minimum value that you want a back pack to have. If you only want inventories at or over $300 put 300 in that box.
 
-All the inventories found will be output in the SteamDB.accdb which is an access databse file for those who do not know.
+All the inventories found will be output in the SteamDB.accdb which is an access databse file for those who do not know. I realize not everyone will have an access db account but there are free accdb readers and this data can be imported into excel.
